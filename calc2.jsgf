@@ -1,0 +1,6 @@
+#JSGF V1.0;
+
+grammar calc;
+
+<greeting> = (компьютер|калькулятор);
+public <query> = <greeting>;
